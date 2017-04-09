@@ -1,0 +1,33 @@
+---
+---
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Schindler Technologies</title>
+    <meta name="viewport" content="initial-scale=1">
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/reset.css">
+    <link rel="stylesheet" type="text/css" href="/default.css">
+  </head>
+  <body>
+    <header>
+      <h1 without-vertical-margins like-paragraph-text>
+        <a href="/" without-underline><img src="/assets/logo.svg" style="height: 24px;"> &nbsp;
+          <img src="/assets/logo-text.svg" style="height: 24px;"></a>
+      </h1>
+    </header>
+    <nav>
+      <a href="/">Home</a><br>
+      <a href="/products/index.html">Products</a><br>
+      <a href="/training/index.html">Training</a><br>
+      <a href="/services/index.html">Services</a><br>
+      <a href="/contact.html">Contact</a><br>
+      <a href="/jobs.html">Jobs</a>
+    </nav>
+    <main>
+      {{ content }}
+    </main>
+    {% include footer.html %}
+  </body>
+</html>

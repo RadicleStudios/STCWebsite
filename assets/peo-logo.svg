@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 686 158">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Logo);
+      }
+
+      .cls-2 {
+        fill: #297491;
+      }
+
+      .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #002c50;
+      }
+
+      .cls-4 {
+        font-size: 53.5px;
+        font-family: AGaramondPro-Bold, Adobe Garamond Pro;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        font-family: AGaramondPro-Regular, Adobe Garamond Pro;
+        font-weight: 400;
+      }
+    </style>
+    <clipPath id="clip-Logo">
+      <rect width="686" height="158"/>
+    </clipPath>
+  </defs>
+  <g id="Logo" class="cls-1">
+    <g id="Logo_PEO_" data-name="Logo (PEO)" transform="translate(-1.468 -1.511)">
+      <g id="Group_1" data-name="Group 1">
+        <path id="Path_1" data-name="Path 1" class="cls-2" d="M68.643,147.175l78.489-78.489,4.242,4.243L72.886,151.418Z"/>
+        <path id="Path_2" data-name="Path 2" class="cls-2" d="M55.208,133.74,133.7,55.251l4.242,4.243L59.451,137.983Z"/>
+        <path id="Path_3" data-name="Path 3" class="cls-2" d="M41.773,120.305l78.489-78.489,4.242,4.243L46.016,124.548Z"/>
+        <path id="Path_4" data-name="Path 4" class="cls-2" d="M28.338,106.87l78.489-78.489,4.242,4.243L32.581,111.113Z"/>
+        <path id="Path_5" data-name="Path 5" class="cls-2" d="M14.9,93.435,93.392,14.946l4.242,4.243L19.146,97.678Z"/>
+        <path id="Path_6" data-name="Path 6" class="cls-2" d="M1.468,80,79.957,1.511,84.2,5.754,5.71,84.243Z"/>
+        <path id="Path_7" data-name="Path 7" class="cls-3" d="M72.886,151.418l78.488-78.489L158.446,80,79.957,158.489Z"/>
+        <path id="Path_8" data-name="Path 8" class="cls-3" d="M59.451,137.983l65.761-65.761,7.071,7.071L66.522,145.054Z"/>
+        <path id="Path_9" data-name="Path 9" class="cls-3" d="M46.016,124.548,98.341,72.222l7.072,7.071L53.087,131.619Z"/>
+        <path id="Path_10" data-name="Path 10" class="cls-3" d="M32.581,111.113l39.6-39.6,7.071,7.071-39.6,39.6Z"/>
+        <path id="Path_11" data-name="Path 11" class="cls-3" d="M19.146,97.678,45.308,71.515l7.072,7.071L26.217,104.749Z"/>
+        <path id="Path_12" data-name="Path 12" class="cls-3" d="M5.71,84.243,19.146,70.808l7.071,7.071L12.782,91.314Z"/>
+      </g>
+      <text id="Professional_Engineers_Ontario" data-name="Professional Engineers
+Ontario" class="cls-4" transform="translate(193 106)"><tspan x="0" y="0">Professional Engineers</tspan><tspan class="cls-5"><tspan x="0" y="52">Ontario</tspan></tspan></text>
+    </g>
+  </g>
+</svg>

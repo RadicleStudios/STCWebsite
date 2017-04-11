@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 231 122 96">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-stacked-logo);
+      }
+
+      .cls-2, .cls-4 {
+        fill: #344c62;
+      }
+
+      .cls-3 {
+        fill: #5d88b0;
+      }
+
+      .cls-4 {
+        font-size: 22px;
+        font-family: SourceSansPro-Regular, Source Sans Pro;
+      }
+    </style>
+    <clipPath id="clip-stacked-logo">
+      <rect y="231" width="122" height="96"/>
+    </clipPath>
+  </defs>
+  <g id="stacked-logo" class="cls-1">
+    <g id="Logo" transform="translate(-188.5 130.5)">
+      <path id="Dark_tiles_behind" data-name="Dark tiles behind" class="cls-2" d="M0,33.952H0v-13.3L11.855,27.3,0,33.952Zm12.271-6.884h0V13.6L24.243,6.884V20.352L12.272,27.068Zm-.3,0h0L.117,20.417l11.855-6.65v13.3Zm12.571-6.884h0V6.883L36.4,13.534l-11.855,6.65ZM36.514,13.3h0L24.659,6.65,36.514,0V13.3Z" transform="translate(188.5 100.78)"/>
+      <path id="Light_tile_behind" data-name="Light tile behind" class="cls-3" d="M11.972,20.334h0L0,13.618,11.972,6.884v13.45ZM0,13.3H0V0L11.855,6.651,0,13.3Z" transform="translate(213.042 121.431)"/>
+      <path id="Light_tiles" data-name="Light tiles" class="cls-3" d="M36.514,33.952h0L24.659,27.3l11.855-6.65v13.3Zm-24.543,0h0L0,27.236V13.767l11.972,6.716V33.952Zm12.571-6.884h0v-13.3L36.4,20.418l-11.855,6.65Zm24.243,0h0L36.814,20.353V6.884L48.785,13.6V27.068ZM36.514,20.185h0L24.542,13.469V0L36.514,6.716V20.184Z" transform="translate(188.5 107.664)"/>
+      <path id="Dark_tiles" data-name="Dark tiles" class="cls-2" d="M12.271,27.068h0V13.6L24.243,6.884V20.352L12.271,27.068ZM0,20.184H0V6.716L11.972,0V13.469L0,20.184Z" transform="translate(200.771 121.432)"/>
+    </g>
+    <text id="Schindler" class="cls-4" transform="translate(0 301)"><tspan x="0" y="0">Schindler</tspan></text>
+    <text id="Technologies" class="cls-4" transform="translate(0 322)"><tspan x="0" y="0">Technologies</tspan></text>
+  </g>
+</svg>

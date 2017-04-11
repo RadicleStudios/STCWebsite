@@ -1,19 +1,9 @@
 /* Layout */
 
-body { max-width: 718px; min-width: 296px; margin: 24px; padding: 1px; }
-body > nav { float: left; width: 116px; padding: 1px 0 48px 4px; margin: 24px; }
-body > main { max-width: 540px; padding: 1px 0 48px 48px; margin: 0 24px 24px 120px; }
-body > header { padding: 4px 4px 0 24px; }
-body > footer { margin-bottom: 96px; }
+body { max-width: 718px; min-width: 296px; margin: 24px; }
+body > nav { float: left; width: 120px; margin-top: 24px; }
+body > main { max-width: 540px; padding: 1px 0 48px 48px; margin: 0 24px 24px 180px; }
 
-/* 'Compact' (width) */
-@media (max-width: 375px) {
-  body { margin: 24px 0 240px 0; }
-  body > header { padding: 0 4px; }
-  body > footer { padding: 0 4px; }
-  body > main   { padding: 1px 4px 1px 36px; } }
-
-body > header { border-bottom: 1px solid transparent; }
 body > footer { border-top: 1px solid transparent; }
 blockquote { padding-left: 23px; border-left: 1px solid transparent; }
 hr { border: 0; border-bottom: 1px solid transparent; height: 0; margin: -1px 0 0 0; }
@@ -21,24 +11,23 @@ hr { border: 0; border-bottom: 1px solid transparent; height: 0; margin: -1px 0 
 /* Colour */
 
 body { background-color: #E9ECF0; color: #344C62; } /* Lighter colour: #5D88B0 */
-body > header { border-color: rgba(0, 0, 0, 0.25); }
-body > footer { border-color: rgba(0, 0, 0, 0.25); }
+body > header { border-color: rgba(0, 0, 0, 0.5); }
+body > footer { border-color: rgba(0, 0, 0, 0.5); }
 blockquote { border-color: #93B2A0; }
-h2 { border-bottom: 1px solid rgba(0, 0, 0, 0.25); color: #5D88B0; }
+h2 { border-bottom: 1px solid rgba(0, 0, 0, 0.5); color: #5D88B0; }
 h3 { color: #93B2A0; }
 a { color: #0000F0; }
 hr { border-color: #D0D3D6; }
 
 /* Typography */
 
-body { font-family: sans-serif; line-height: 24px; }
+body { font-family: sans-serif; }
 
-p   { font-size: 16px; margin: 24px 0; }
-nav { font-size: 16px; }
-ul  { font-size: 16px; margin: 24px 0; }
-h3  { font-size: 16px; margin: 24px 0 0 0; font-weight: bold; }
-h2  { font-size: 20px; margin: 24px 0; margin-left: -24px; }
-h1  { font-size: 21px; margin: 120px 0 48px 0; }
+p   { line-height: 24px; font-size: 16px; margin: 24px 0; }
+ul  { line-height: 24px; font-size: 16px; margin: 24px 0; }
+h3  { line-height: 24px; font-size: 16px; margin: 24px 0 0 0; font-weight: bold; }
+h2  { line-height: 24px; font-size: 20px; margin: 24px 0; margin-left: -24px; }
+h1  { line-height: 24px; font-size: 21px; margin: 120px 0 48px 0; }
 
 em, i { font-style: italic; }
 strong, b { font-weight: bold; }

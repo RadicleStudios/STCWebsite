@@ -11,24 +11,46 @@
     <link rel="stylesheet" type="text/css" href="/default.css">
   </head>
   <body>
-    <nav>
-      <h1 without-vertical-margins like-paragraph-text>
-        <a href="/" without-underline>
-          <img src="/assets/stacked-logo.svg" style="height: 96px;">
-        </a>
-      </h1>
-      <p>
-        <a href="/">Home</a><br>
-        <a href="/products/index.html">Products</a><br>
-        <a href="/training/index.html">Training</a><br>
-        <a href="/services/index.html">Services</a><br>
-        <a href="/contact.html">Contact</a><br>
-        <a href="/jobs.html">Jobs</a>
-      </p>
-    </nav>
-    <main>
+    <header style="line-height: 48px;">
+      <div class="content-container">
+        <a href="/"><img src="/assets/logo-white.svg" style="height: 20px; vertical-align: middle; position: relative; top: -1px;"></a>
+        <nav style="float: right; font-size: 11px; position: relative; top: 1px;">
+          <a style="color: white;" href="/products.html">PRODUCTS</a> &nbsp;
+          <a style="color: white;" href="/training.html">TRAINING</a> &nbsp;
+          <a style="color: white;" href="/services.html">SERVICES</a> &nbsp;
+          <a style="color: white;" href="/contact.html">CONTACT</a>
+        </nav>
+      </div>
+    </header>
+    <section without-vertical-padding with-bottom-border>
+      <div class="content-container">
+        <div style="display: table; height: 240px; width: 100%;">
+          <div class="carousel-main" style="display: table-cell; width: 75%; background-color: #BFBFBF; background: top left / 540px url(/assets/carousel-solidscape.png)">
+            &nbsp;
+          </div>
+          <div class="carousel-upcoming" style="display: table-cell; height: 100%; width: 25%; background-color: #7F7F7F">
+            <table style="height: 100%; width: 100%;">
+              <tr>
+                <td style="background: top left / 180px url(/assets/carousel-rhinogold-mini.png)"></td>
+              </tr>
+              <tr>
+                <td style="background: top left / 180px url(/assets/carousel-laserstar-mini.png)"></td>
+              </tr>
+              <tr>
+                <td style="background: top left / 180px url(/assets/carousel-roland-mini.png)"></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <main with-white-background>
+      <div class="content-container">
       {{ content }}
+      </div>
     </main>
+    
     {% include footer.html %}
   </body>
 </html>

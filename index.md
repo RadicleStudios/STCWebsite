@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome
+## Welcome to the fucking website, man!
 
 Welcome to the Schindler Technologies Corporation. We provide complete CAD-CAM systems, laser welders and relevant support, training, and services.
 <br><br>

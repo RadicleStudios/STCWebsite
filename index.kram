@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+{% include hero.html %}
+
+{% include feature.html %}
+
+<section class="news" markdown="1">
+
+
+# What's new
+
+![](/assets/solidscape-3zmax2.png){:.small}
+{:.left}
+
+<div class="right" markdown="1">
+**New [Solidscape 3D printers](/products/solidscape.html) in stock**
+
+- 3Z Pro sets a new standard for the easiest 3D wax growing.
+- 3Z Studio offers economic wax growing for jewellery designers and retailers.
+- 3Z Max2 is optimized for higher volume manufacturing.
+</div>
+
+* * *
+
+![](/assets/laserstar-iweld.png){:.small}
+{:.left}
+
+<div class="right" markdown="1">
+**[LaserStar](/products/laserstar.html) high-precision / high-power laser welders**
+
+The most power in the industry!
+</div>
+
+* * *
+
+![](/assets/rhinogold.png){:.small}
+{:.left}
+
+<div class="right" markdown="1">
+**Two versions of [RhinoGold](/products/rhinogold.html) 6.0 released! This latest and most complete jewellery design suite includes a library of 2000+ components ready to print!**
+
+- Attend our free training, [Introduction to RhinoGold jewellery CAD and 3D printing](/training/intro-to-rhinogold.html), and learn how you can easily design jewellery with RhinoGold and make wax models.
+- Watch our [training webinar](/training/webinar.html).
+</div>
+
+* * *
+
+![](/assets/rhino-takahiro-yoshioka.png){:.small}
+{:.left}
+
+<div class="right" markdown="1">
+**[Rhino3D](/products/rhino3d.html) 5.0 SR13 released!** Over 2000 new features and enhancements.
+
+- Free training: [Introduction to 3D modelling with Rhino](/training/intro-to-3d.html).
+</div>
+
+
+</section>
